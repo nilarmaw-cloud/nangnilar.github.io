@@ -1,6 +1,6 @@
 <img src="myphoto.jpg" alt="My Profile Photo" align="right" width="25%"/>
 
-# _Nilar Maw Nang_
+# _Nang Nilar Maw_
 > _Undergraduate Student - English Communication_ <br />
 > Payap University, Chiang Mai, Thailand <br />
 
@@ -41,10 +41,10 @@ multicultural environments.
 
 # Languages
 * Burmese - Native
-* English - Currently studying
+* English - Intermediate
 * Thai - Basic communication
 
 # Contact Info
 * Location: Chiang Mai, Thailand
-* Email: your-email@example.com
-* GitHub: https://github.com/YOUR-USERNAME
+* Email: nilarmaw@gmail.com
+* GitHub: https://github.com/nilarmaw-cloud
